@@ -2,7 +2,7 @@ syntax = "proto3";
 
 package payment;
 
-option go_package = "github.com/yourname/payment-aggregator/go-service/pb";
+option go_package = "github.com/rajathongal-intangles/payment-aggregator/go-service/pb";
 
 // ============================================
 // ENUMS

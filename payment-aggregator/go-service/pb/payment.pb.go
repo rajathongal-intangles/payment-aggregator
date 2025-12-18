@@ -515,7 +515,7 @@ const file_proto_payment_proto_rawDesc = "" +
 	"\n" +
 	"GetPayment\x12\x1a.payment.GetPaymentRequest\x1a\x10.payment.Payment\x12B\n" +
 	"\fListPayments\x12\x1c.payment.ListPaymentsRequest\x1a\x14.payment.PaymentList\x12G\n" +
-	"\x0eStreamPayments\x12\x1c.payment.ListPaymentsRequest\x1a\x15.payment.PaymentEvent0\x01B6Z4github.com/yourname/payment-aggregator/go-service/pbb\x06proto3"
+	"\x0eStreamPayments\x12\x1c.payment.ListPaymentsRequest\x1a\x15.payment.PaymentEvent0\x01BCZAgithub.com/rajathongal-intangles/payment-aggregator/go-service/pbb\x06proto3"
 
 var (
 	file_proto_payment_proto_rawDescOnce sync.Once
